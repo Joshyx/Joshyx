@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm Joshix
 
-<!--
-**Joshyx/Joshyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I'm Joshix and I make games, discord bots and lots of other cool things
+> [Website](https://joshyx.github.io)
 
-Here are some ideas to get you started:
+> [Social Media](https://joshyx.github.io/contact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I started many [projects](https://joshyx.github.io/projects) and finished some of them, here are some examples:
+* [Schlucy](https://joshyx.github.io/projects#schlucy)
+* [JarGame](https://joshyx.github.io/projects#jargame)
+* [JesinBoomer](https://joshyx.github.io/projects#jesin)
