@@ -1,6 +1,17 @@
-# Hi I'm Joshi
+# UwU 💅
 
-## Things I pretend to know how to use
+> [!CAUTION]
+> Programming ur Mom.
+> 
+> JS bad, Rust goated
+>
+> `:(){:|:&};:`
+
+---
+
+<details>
+<summary>Things I pretend to know how to use</summary>
+  
 ### Programming Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -51,9 +62,14 @@
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
-## Top Languages:
+</details>
+<details>
+<summary>Top Languages</summary>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshyx&theme=dark&hide_border=false)
 > Honestly I don't know why Java is so high up and what ShaderScript even is
+
+</details>
 
 ---
 
