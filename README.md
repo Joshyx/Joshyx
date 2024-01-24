@@ -1,9 +1,7 @@
-# UwU 💅
+# <Insert-Your-Title-Here>
 
 > [!CAUTION]
-> Programming ur Mom.
-> 
-> JS bad, Rust goated
+> Example how to create a note with caution
 >
 > `:(){:|:&};:`
 
